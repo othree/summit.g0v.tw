@@ -287,6 +287,7 @@
       "id": "ekwlmc",
       "avatar": "https://avatars2.githubusercontent.com/u/4479861",
       "name": "駱勁成",
+      "name_en": "Johnny Lo",
       "organization": "g0v",
       "title": "",
       "bio": "立委／議員投票指南",
@@ -369,6 +370,7 @@
       "id": "vjxgre",
       "avatar": "http://www.cmlab.csie.ntu.edu.tw/~ked/ked.png",
       "name": "蘇彥禎",
+      "name_en": "Yan-Jen Su",
       "organization": "Delta research center",
       "title": "",
       "bio": "2009–2015 Ph.D., Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan, Advisor: Yung-Yu Chuang. 2002–2004 M.S., Department of Computer Science and Engineering, National Taiwan Ocean University, Keelung, Taiwan, Advisor: Shyh-Kuang Ueng. 1998–2002 B.S., Department of Computer Science and Engineering, National Taiwan Ocean University, Keelung, Taiwan.",
@@ -454,6 +456,7 @@
       "twitter": "@lucien_cc"
     },
     {
+      "id": "yzgric",
       "avatar": "",
       "name": "蔡淑芳",
       "organization": "開拓文教基金會",
@@ -465,6 +468,7 @@
       "twitter": ""
     },
     {
+      "id": "eywxbb",
       "avatar": "",
       "name": "李怡志",
       "organization": "",
@@ -474,6 +478,7 @@
       "twitter": "@richy"
     },
     {
+      "id": "eexriz",
       "avatar": "",
       "name": "唐鳳",
       "organization": "",
@@ -483,8 +488,10 @@
       "twitter": "@audreyt"
     },
     {
+      "id": "ekklhz",
       "avatar": "",
-      "name": "衷嵐焜(Lan-Kun Chung)",
+      "name": "衷嵐焜",
+      "name_en": "Lan-Kun Chung",
       "organization": "奇點無限有限公司(Singularity & Infinity Co., Ltd.",
       "title": "",
       "bio": "衷嵐焜是奇點無限有限公司的創辦人，同時也服務於逢甲大學地理資訊系統研究中心，亦擔任經濟部標檢局資訊及通訊國家標準委員會委員。衷嵐焜參與國內與國外災害管理計畫將近廿年，近年專注在國際標準的參與設計，並應用在防救災議題上，以及資料的混搭應用。",
@@ -493,6 +500,7 @@
       "twitter": ""
     },
     {
+      "id": "nycsib",
       "avatar": "https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10371359_1078460835501416_7207496057617610261_n.jpg?oh=2a1a5c77f431bd9fe41eb6288f1c546a&oe=578FE8DE",
       "name": "吳銘軒",
       "organization": "",
@@ -513,6 +521,46 @@
       "title_en": "Premier",
       "bio": "學 歷:\n美國康乃爾大學土木工程博士                                1981\n美國史丹福大學土木工程碩士                                1977\n經 歷:\n行政院副院長 2014/12/08-2016/01/30\n科技部部長                                    2014/3/3-2014/12/8\n行政院政務委員                                       2012-2014\n美商 Google公司亞洲硬體營運總監                     2010-2012\n宏碁股份有限公司電子化事業群副總經理                 2000-2010\n行政院國家科學委員會企劃考核處處長                   1998-2000\n行政院國家科學委員會國家高速電腦中心主任             1991-1997\n國立臺灣大學土木工程學系 講師、副教授、教授          1981-1990",
       "bio_en": "Education:\nPh.D., Civil and Environmental Engineering, Cornell University, USA       1981\nMS, Civil and Environmental Engineering, Stanford University, USA        1977\n\nExperience:\nVice Premier, Executive Yuan                        2014/12/08-2016/01/30\nMinister, Ministry of Science and Technology           2014/03/03-2014/12/08\nMinister without Portfolio, Executive Yuan                          2012-2014\nRegional Director of Hardware Operations in Asia, Google Inc.       2010-2012\nVice President, e-Enabling Services Business Group, Acer Inc.      2000-2010\nDirector, Department of Planning and Evaluation,                   1998-2000\nNational Science Council, Executive Yuan                                    \nDirector, National Center for High-performance Computing           1991-1997\nLecturer, Associate Professor and Professor,                       1981-1990\nDepartment of Civil Engineering, NTU",
+      "nation": "Taiwan",
+      "twitter": ""
+    },
+    {
+      "id": "nzsicb",
+      "name": "呂家華",
+      "name_en": "Chia-hua Lu",
+      "organization": "",
+      "title": "",
+      "bio": "",
+      "nation": "Taiwan",
+      "twitter": ""
+    },
+    {
+      "id": "jmsucb",
+      "name": "洪申翰",
+      "name_en": "S.H. Hung",
+      "organization": "",
+      "title": "",
+      "bio": "目前工作於綠色公民行動聯盟，大學讀理學院，但對於科學與社會的交界有高度興趣，曾參與樂生保留運動。現多投入於能源轉型與環境運動，希望能在多重的社群與邊界中找到更多價值創造的可能。",
+      "nation": "Taiwan",
+      "twitter": ""
+    },
+    {
+      "id": "ensizd",
+      "name": "曾虹文",
+      "name_en": "H.W Tseng",
+      "organization": "",
+      "title": "",
+      "bio": "綠盟專員。愛台灣，對於台灣環境議題感到焦慮，憑藉一絲改變的希望投入環境運動。",
+      "nation": "Taiwan",
+      "twitter": ""
+    },
+    {
+      "id": "vyrhlc",
+      "name": "卞中佩",
+      "name_en": "Chung-pei Pien",
+      "organization": "",
+      "title": "",
+      "bio": "美國德州農工大學社會系博士候選人、報導者專欄作者，關注社會運動、企業行為及中國議題。目前研究主題為台灣企業集團結構、中國環保運動及中國環保產業發展。",
       "nation": "Taiwan",
       "twitter": ""
     }
